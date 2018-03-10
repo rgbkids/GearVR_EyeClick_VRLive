@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 79f7ef49adf294c468d122ff23d0b4ce
+timeCreated: 1498264730
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AR_Ieyasu_07:Ankle_L
+    100002: AR_Ieyasu_07:Ankle_R
+    100004: AR_Ieyasu_07:Chest_M
+    100006: AR_Ieyasu_07:Elbow_L
+    100008: AR_Ieyasu_07:Elbow_R
+    100010: AR_Ieyasu_07:Head_M
+    100012: AR_Ieyasu_07:Hip_L
+    100014: AR_Ieyasu_07:Hip_R
+    100016: AR_Ieyasu_07:joint1
+    100018: AR_Ieyasu_07:joint2
+    100020: AR_Ieyasu_07:joint3
+    100022: AR_Ieyasu_07:joint4
+    100024: AR_Ieyasu_07:Knee_L
+    100026: AR_Ieyasu_07:Knee_R
+    100028: AR_Ieyasu_07:MiddleFinger1_L
+    100030: AR_Ieyasu_07:MiddleFinger1_R
+    100032: AR_Ieyasu_07:Neck_M
+    100034: AR_Ieyasu_07:Root_M
+    100036: AR_Ieyasu_07:Scapula_L
+    100038: AR_Ieyasu_07:Scapula_R
+    100040: AR_Ieyasu_07:Shoulder_L
+    100042: AR_Ieyasu_07:Shoulder_R
+    100044: AR_Ieyasu_07:ShoulderPart1_L
+    100046: AR_Ieyasu_07:ShoulderPart1_R
+    100048: AR_Ieyasu_07:ShoulderPart2_L
+    100050: AR_Ieyasu_07:ShoulderPart2_R
+    100052: AR_Ieyasu_07:Spine1_M
+    100054: AR_Ieyasu_07:Toes_L
+    100056: AR_Ieyasu_07:Toes_R
+    100058: AR_Ieyasu_07:ToesEnd_L
+    100060: AR_Ieyasu_07:ToesEnd_R
+    100062: AR_Ieyasu_07:Wrist_L
+    100064: AR_Ieyasu_07:Wrist_R
+    100066: AR_Ieyasu_170225_01:AR_Ieyasu_body
+    100068: AR_Ieyasu_170225_01:AR_Ieyasu_body001
+    100070: AR_Ieyasu_170225_01:AR_Ieyasu_body002
+    100072: AR_Ieyasu_170225_01:AR_Ieyasu_body003
+    100074: AR_Ieyasu_170225_01:AR_Ieyasu_face
+    100076: //RootNode
+    100078: snake_v01:Naotora_ran_01:AR_Naotora_170116_01_AR_Naotora_anim01_170114_01_AR_Naotora_170104_AR_Naotora_170104_Naotora_obj_sake
+    100080: snake_v01:Naotora_ran_01:bone_body_01
+    100082: snake_v01:Naotora_ran_01:bone_body_02
+    100084: snake_v01:Naotora_ran_01:bone_body_03
+    100086: snake_v01:Naotora_ran_01:bone_body_04
+    100088: snake_v01:Naotora_ran_01:bone_body_05
+    100090: snake_v01:Naotora_ran_01:bone_body_06
+    100092: snake_v01:Naotora_ran_01:bone_body_07
+    100094: snake_v01:Naotora_ran_01:bone_body_08
+    100096: snake_v01:Naotora_ran_01:bone_body_09
+    100098: snake_v01:Naotora_ran_01:bone_head_01
+    100100: snake_v01:Naotora_ran_01:bone_head_02
+    100102: snake_v01:Naotora_ran_01:bone_tailL_01
+    100104: snake_v01:Naotora_ran_01:bone_tailL_02
+    100106: snake_v01:Naotora_ran_01:bone_tailR_01
+    100108: snake_v01:Naotora_ran_01:bone_tailR_02
+    400000: AR_Ieyasu_07:Ankle_L
+    400002: AR_Ieyasu_07:Ankle_R
+    400004: AR_Ieyasu_07:Chest_M
+    400006: AR_Ieyasu_07:Elbow_L
+    400008: AR_Ieyasu_07:Elbow_R
+    400010: AR_Ieyasu_07:Head_M
+    400012: AR_Ieyasu_07:Hip_L
+    400014: AR_Ieyasu_07:Hip_R
+    400016: AR_Ieyasu_07:joint1
+    400018: AR_Ieyasu_07:joint2
+    400020: AR_Ieyasu_07:joint3
+    400022: AR_Ieyasu_07:joint4
+    400024: AR_Ieyasu_07:Knee_L
+    400026: AR_Ieyasu_07:Knee_R
+    400028: AR_Ieyasu_07:MiddleFinger1_L
+    400030: AR_Ieyasu_07:MiddleFinger1_R
+    400032: AR_Ieyasu_07:Neck_M
+    400034: AR_Ieyasu_07:Root_M
+    400036: AR_Ieyasu_07:Scapula_L
+    400038: AR_Ieyasu_07:Scapula_R
+    400040: AR_Ieyasu_07:Shoulder_L
+    400042: AR_Ieyasu_07:Shoulder_R
+    400044: AR_Ieyasu_07:ShoulderPart1_L
+    400046: AR_Ieyasu_07:ShoulderPart1_R
+    400048: AR_Ieyasu_07:ShoulderPart2_L
+    400050: AR_Ieyasu_07:ShoulderPart2_R
+    400052: AR_Ieyasu_07:Spine1_M
+    400054: AR_Ieyasu_07:Toes_L
+    400056: AR_Ieyasu_07:Toes_R
+    400058: AR_Ieyasu_07:ToesEnd_L
+    400060: AR_Ieyasu_07:ToesEnd_R
+    400062: AR_Ieyasu_07:Wrist_L
+    400064: AR_Ieyasu_07:Wrist_R
+    400066: AR_Ieyasu_170225_01:AR_Ieyasu_body
+    400068: AR_Ieyasu_170225_01:AR_Ieyasu_body001
+    400070: AR_Ieyasu_170225_01:AR_Ieyasu_body002
+    400072: AR_Ieyasu_170225_01:AR_Ieyasu_body003
+    400074: AR_Ieyasu_170225_01:AR_Ieyasu_face
+    400076: //RootNode
+    400078: snake_v01:Naotora_ran_01:AR_Naotora_170116_01_AR_Naotora_anim01_170114_01_AR_Naotora_170104_AR_Naotora_170104_Naotora_obj_sake
+    400080: snake_v01:Naotora_ran_01:bone_body_01
+    400082: snake_v01:Naotora_ran_01:bone_body_02
+    400084: snake_v01:Naotora_ran_01:bone_body_03
+    400086: snake_v01:Naotora_ran_01:bone_body_04
+    400088: snake_v01:Naotora_ran_01:bone_body_05
+    400090: snake_v01:Naotora_ran_01:bone_body_06
+    400092: snake_v01:Naotora_ran_01:bone_body_07
+    400094: snake_v01:Naotora_ran_01:bone_body_08
+    400096: snake_v01:Naotora_ran_01:bone_body_09
+    400098: snake_v01:Naotora_ran_01:bone_head_01
+    400100: snake_v01:Naotora_ran_01:bone_head_02
+    400102: snake_v01:Naotora_ran_01:bone_tailL_01
+    400104: snake_v01:Naotora_ran_01:bone_tailL_02
+    400106: snake_v01:Naotora_ran_01:bone_tailR_01
+    400108: snake_v01:Naotora_ran_01:bone_tailR_02
+    4300000: AR_Ieyasu_170225_01:AR_Ieyasu_body
+    4300002: AR_Ieyasu_170225_01:AR_Ieyasu_face
+    4300004: AR_Ieyasu_170225_01:AR_Ieyasu_body001
+    4300006: AR_Ieyasu_170225_01:AR_Ieyasu_body002
+    4300008: AR_Ieyasu_170225_01:AR_Ieyasu_body003
+    4300010: snake_v01:Naotora_ran_01:AR_Naotora_170116_01_AR_Naotora_anim01_170114_01_AR_Naotora_170104_AR_Naotora_170104_Naotora_obj_sake
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: AR_Ieyasu_170225_01:AR_Ieyasu_body
+    13700002: AR_Ieyasu_170225_01:AR_Ieyasu_body001
+    13700004: AR_Ieyasu_170225_01:AR_Ieyasu_body002
+    13700006: AR_Ieyasu_170225_01:AR_Ieyasu_body003
+    13700008: AR_Ieyasu_170225_01:AR_Ieyasu_face
+    13700010: snake_v01:Naotora_ran_01:AR_Naotora_170116_01_AR_Naotora_anim01_170114_01_AR_Naotora_170104_AR_Naotora_170104_Naotora_obj_sake
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
